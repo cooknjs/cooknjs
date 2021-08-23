@@ -1,0 +1,6 @@
+[submodule "packages/whisker"]
+	path = packages/whisker
+	url = git@github.com:cooknjs/whisker.git
+[submodule "packages/eggs"]
+	path = packages/eggs
+	url = git@github.com:cooknjs/eggs.git

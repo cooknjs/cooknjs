@@ -4,3 +4,9 @@
 [submodule "packages/eggs"]
 	path = packages/eggs
 	url = git@github.com:cooknjs/eggs.git
+[submodule "resources"]
+	path = resources
+	url = git@github.com:cooknjs/resources.git
+[submodule "packages/basket"]
+	path = packages/basket
+	url = git@github.com:cooknjs/basket.git

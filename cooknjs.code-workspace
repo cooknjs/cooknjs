@@ -6,6 +6,10 @@
 	],
 	"settings": {
 		"eslint.packageManager": "yarn",
+		"eslint.format.enable": true,
+		"editor.codeActionsOnSave": {
+			"source.fixAll": true
+		},
 		"github.gitAuthentication": true		
 	}
 }
